@@ -10,7 +10,7 @@ homepage = "https://webrtc.rs"
 repository = "https://github.com/webrtc-rs/srtp"
 
 [dependencies]
-util = { package = "webrtc-util", version = "0.5.3", default-features = false, features = [
+util = { package = "webrtc-util", version = "0.5.4", default-features = false, features = [
     "conn",
     "buffer",
     "marshal",
